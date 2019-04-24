@@ -3,5 +3,6 @@ public class main {
         System.out.println("第一次提交");
         System.out.println("新建分支branch1");
         System.out.println("将分支branch1合并到master");
+        System.out.println("新的工作1");
     }
 }
